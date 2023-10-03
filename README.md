@@ -1,3 +1,6 @@
+# Web Application Preview
+![image](https://github.com/Jevonzz/Movie-Web-Application/assets/109259972/c9b4e9d3-29ff-4e79-a07d-acc9eb68c7fd)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
